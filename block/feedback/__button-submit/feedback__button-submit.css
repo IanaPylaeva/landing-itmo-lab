@@ -1,0 +1,31 @@
+.feedback__button-submit {
+  margin: 37px auto 0;
+  width: 350px;
+  height: 60px;
+  background-color: #009FAC;
+  color: #FFFFFF;  
+  text-align: center;
+  border-radius: 10px;
+  border: 1px solid #FFFFFF;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 1.67;
+}
+
+@media screen and (max-width: 1000px) {
+  .feedback__button-submit {
+    width: 210px;
+    height: 44px;
+  }
+}
+
+@media screen and (max-width: 440px) {
+  .feedback__button-submit {    
+    border-radius: 5px;
+    margin: 23px auto 0;
+    width: 100%;
+    font-size: 14px;
+    line-height: 1.36;
+  }
+}

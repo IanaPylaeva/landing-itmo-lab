@@ -1,0 +1,10 @@
+.about-us__subtitle {
+  max-width: 907px;
+  margin: 30px auto;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.667;
+  letter-spacing: 0.1px;
+  color: #FFFFFF;
+  text-align: justify;
+}

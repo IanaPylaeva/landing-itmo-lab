@@ -1,0 +1,10 @@
+.lab__card-icon {
+  width: 70px;
+  height: 70px;
+  margin: 50px auto;
+  padding: 0;
+  display: flex;
+  border-radius: 36px;
+  background-size: 70px;
+  z-index: 1;
+}

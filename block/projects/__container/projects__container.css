@@ -1,0 +1,6 @@
+.projects__container {
+  min-width: 1110px;
+  margin: 80px auto 61px;
+  display: flex;
+  flex-direction: column;
+}

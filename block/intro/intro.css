@@ -1,0 +1,11 @@
+.intro {
+  min-width: 100%;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  background-image: url(../../images/intro/intro_background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}

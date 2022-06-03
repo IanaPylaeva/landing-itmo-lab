@@ -1,0 +1,11 @@
+.header__menu-item {
+  margin: 0 auto;
+  padding: 0;
+  width: 100px;
+  height: 44px;
+  text-align: center;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.357;
+  
+}

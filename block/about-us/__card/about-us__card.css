@@ -1,0 +1,13 @@
+.about-us__card {
+  margin: 15.5px 32px 0 0;
+  min-width: 348px;
+  height: 340px;
+  background-color: #E0F0FF;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+.about-us__card:last-child {
+  margin: 15.5px 0 0;
+}

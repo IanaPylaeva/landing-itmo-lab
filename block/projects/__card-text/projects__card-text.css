@@ -1,0 +1,11 @@
+.projects__card-text {
+  max-width: 194px;
+  margin: 88px 40px 0 20px;
+  display: flex;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.428;
+  letter-spacing: 0.1px;
+  color: #FFFFFF;
+  z-index: 1;
+}

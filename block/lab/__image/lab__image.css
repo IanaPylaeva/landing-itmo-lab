@@ -1,0 +1,10 @@
+.lab__image {
+  display: flex;
+  width: 264px;
+  height: 276px;
+  border-radius: 10px;
+  margin: 0 12px 0 0;
+}
+.lab__image:last-child {
+  margin: 0;
+}

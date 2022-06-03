@@ -1,0 +1,12 @@
+.projects__page-arrow {
+  background-color: rgba(0, 0, 0, 0);
+  border: none;
+  color: white;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  box-sizing: border-box;
+  cursor: pointer;
+  transition: opacity .3s ease;
+  margin: 0;
+}

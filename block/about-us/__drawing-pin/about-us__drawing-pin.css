@@ -1,0 +1,12 @@
+.about-us__drawing-pin {
+  width: 29.6px;
+  height: 40.09px;
+  display: flex;
+  background-image: url(../../../images/about-us/drawing-pin.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  
+  margin: -14.16px -7.91px 0 auto;
+  padding: 0;
+
+}

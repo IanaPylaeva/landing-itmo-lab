@@ -1,0 +1,10 @@
+.about-us__card-date {
+  min-width: 308px;
+  margin: 4.56px 20px 8px;
+  display: flex;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.357;
+  color: #009FAC;
+  text-align: center;
+}

@@ -1,0 +1,5 @@
+.lab__cards {
+  max-width: 1110px;
+  margin: 0 auto 80px;
+  display: flex;
+}

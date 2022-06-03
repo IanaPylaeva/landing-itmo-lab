@@ -1,0 +1,5 @@
+.about-us__container {
+  max-width: 1122px;
+  display: flex;
+  flex-direction: column;
+}

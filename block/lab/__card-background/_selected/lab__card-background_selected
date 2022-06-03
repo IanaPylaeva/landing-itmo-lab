@@ -1,0 +1,4 @@
+.lab__card-background_selected {
+  background: linear-gradient(180deg, #009FAC 0%, rgba(224, 240, 255, 0) 100%, rgba(0, 159, 172, 0) 100%);
+
+}

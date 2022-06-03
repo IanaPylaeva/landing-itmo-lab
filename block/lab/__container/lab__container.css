@@ -1,0 +1,6 @@
+.lab__container {
+  max-width: 1146px;
+  margin: 80px auto;
+  display: flex;
+  flex-direction: column;
+}

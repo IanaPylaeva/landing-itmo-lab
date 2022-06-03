@@ -1,0 +1,10 @@
+.lab__card-subtitle {
+  width: 100%;
+  margin: 0 0 50px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.428;
+  letter-spacing: 0.1px;
+  color: #001337;
+  z-index: 1;
+}

@@ -1,0 +1,21 @@
+.partners__text {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 180px;
+  margin: 0;
+  padding: 0;
+}
+
+
+@media screen and (max-width: 768px) {
+  .partners__text {
+    height: 140px;
+  }
+}
+
+@media screen and (max-width: 440px) {
+  .partners__text {
+    height: 192px;
+  }
+}

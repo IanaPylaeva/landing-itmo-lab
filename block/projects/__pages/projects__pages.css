@@ -1,0 +1,6 @@
+.projects__pages {
+  min-width: 344px;
+  min-height: 32px;
+  display: flex;
+  margin: 0 auto;
+}
