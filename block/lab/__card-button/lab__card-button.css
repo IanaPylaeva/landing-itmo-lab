@@ -2,14 +2,15 @@
   width: 215px;
   height: 40px;
   margin: 0;
+  border: none;
   border: 1px solid #001337;
   border-radius: 10px;
   box-sizing: border-box;
-  background-color: rgba(0, 0, 0, 0);
-  cursor: pointer;
   transition: opacity .3s ease;
   font-weight: 400;
   font-size: 14px;
   line-height: 1.357;
   color: #001337;
+  cursor: pointer;
+  background-color: rgba(0, 0, 0, 0);
 }

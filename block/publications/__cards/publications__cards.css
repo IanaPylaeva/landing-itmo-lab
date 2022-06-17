@@ -1,0 +1,6 @@
+.publications__cards {
+  max-width: 1110px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

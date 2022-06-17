@@ -1,0 +1,7 @@
+.education__info-text {
+  max-width: 100%;
+  margin: 0 auto 0 0;
+}
+.education__info-text:first-child {
+  margin: 30px 0 0;
+}

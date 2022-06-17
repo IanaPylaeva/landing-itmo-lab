@@ -1,0 +1,9 @@
+.publications__card-container {
+  width: 100%;
+  margin: -4px 0 0;
+  background-color: #009FAC;
+  border-radius: 0px 0px 10px 10px;
+  display: none;
+  position: relative;
+  visibility: hidden;
+}

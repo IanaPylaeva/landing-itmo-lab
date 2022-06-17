@@ -1,0 +1,4 @@
+.publications__card-container_active {
+  display: flex;
+  visibility: visible;  
+}

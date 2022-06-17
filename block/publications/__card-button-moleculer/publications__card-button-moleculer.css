@@ -1,0 +1,15 @@
+.publications__card-button-moleculer {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  box-sizing: border-box;
+  cursor: pointer;
+  transition: opacity .3s ease;
+  background-image: url(../../../images/publications/molecule.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 20px 20px 26px auto;
+  padding: 0;
+  background-color: rgba(0, 0, 0, 0);
+  border: none;
+}

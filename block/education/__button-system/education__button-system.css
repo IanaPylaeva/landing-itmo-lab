@@ -1,0 +1,19 @@
+.education__button-system {
+  width: 279px;
+  height: 60px;
+  display: flex;
+  border: none;
+  background-color: rgb(224, 240, 255, 1);
+  border: 1px solid #E0F0FF;
+  border-radius: 10px;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 1.67;
+  text-decoration: none;
+  align-items: center;
+  text-align: center;
+  color: #000D26;
+  text-transform: uppercase;
+  padding-left: 70px;
+  cursor: pointer;
+}

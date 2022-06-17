@@ -1,0 +1,10 @@
+.publications__card-link-icon {
+  width: 22px;
+  height: 22px;
+  display: flex;
+  padding: 0;
+  margin: 0 10px 0 0;
+}
+.publications__card-link-icon:last-child {
+  margin: 0;
+}

@@ -1,0 +1,16 @@
+.education__info-button {
+  width: 138px;
+  height: 30px;
+  margin: 30px auto 0 0;
+  padding: 0;
+  border: none;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 1.67;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #000D26;
+  background-color: rgba(0, 0, 0, 0);
+  cursor: pointer;
+}

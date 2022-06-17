@@ -1,0 +1,11 @@
+.education__info {
+  max-width: 635px;
+  min-width: 635px;
+  margin: 30px 29px 30px 30px;
+  padding: 0;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 1.67;
+  letter-spacing: 0.1px;  
+  color: #000D26;  
+}

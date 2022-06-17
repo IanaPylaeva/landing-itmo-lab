@@ -1,0 +1,18 @@
+.publications__arrow-right {
+  width: 60px;
+  height: 60px;
+  display: flex;
+  border: none;
+  box-sizing: border-box;
+  cursor: pointer;
+  transition: opacity .3s ease;
+  background-image: url(../../../images/publications/arrow-left.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 349px 21px auto auto;
+  padding: 0;
+  background-color: #FFFFFF;
+  box-shadow: 0px 4px 20px rgba(1, 54, 157, 0.15);
+  border-radius: 36px;
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+}

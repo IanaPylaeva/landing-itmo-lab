@@ -1,0 +1,18 @@
+.education__button-form {
+  width: 261px;
+  height: 60px;
+  display: flex;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.67;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.1px;
+  color: #FFFFFF;
+  background-color: rgba(0, 0, 0, 0);
+  border: none;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding-left: 60px;
+  cursor: pointer;
+}

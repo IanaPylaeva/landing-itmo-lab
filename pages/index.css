@@ -75,6 +75,48 @@
 @import url(../block/projects/__menu-item/_selected/projects__menu-item_selected.css);
 @import url(../block/projects/projects.css);
 
+/* Блок education */
+@import url(../block/education/__button-container/education__button-container.css);
+@import url(../block/education/__button-form/_active/education__button-form_active.css);
+@import url(../block/education/__button-form/education__button-form.css);
+@import url(../block/education/__button-system/_active/education__button-system_active.css);
+@import url(../block/education/__button-system/education__button-system.css);
+@import url(../block/education/__container/education__container.css);
+@import url(../block/education/__image/_inactive/education__image_inactive.css);
+@import url(../block/education/__image/education__image.css);
+@import url(../block/education/__info-button/education__info-button.css);
+@import url(../block/education/__info-text/education__info-text.css);
+@import url(../block/education/__info-title/education__info-title.css);
+@import url(../block/education/__info/education__info.css);
+@import url(../block/education/__subtitle/education__subtitle.css);
+@import url(../block/education/__title/education__title.css);
+@import url(../block/education/__arrow-right/education__arrow-right.css);
+@import url(../block/education/education.css);
+
+/* Блок publications */
+@import url(../block/publications/__arrow-left/publications__arrow-left.css);
+@import url(../block/publications/__arrow-right/publications__arrow-right.css);
+@import url(../block/publications/__card-arrow-right/publications__card-arrow-right.css);
+@import url(../block/publications/__card-button-moleculer/publications__card-button-moleculer.css);
+@import url(../block/publications/__card-button/publications__card-button.css);
+@import url(../block/publications/__card-container/publications__card-container.css);
+@import url(../block/publications/__card-container/_active/publications__card-container_active.css);
+@import url(../block/publications/__card-image/publications__card-image.css);
+@import url(../block/publications/__card-image/_active/publications__card-image_active.css);
+@import url(../block/publications/__card-link-icon/publications__card-link-icon.css);
+@import url(../block/publications/__card-link/publications__card-link.css);
+@import url(../block/publications/__card-links/_active/publications__card-links_active.css);
+@import url(../block/publications/__card-links/publications__card-links.css);
+@import url(../block/publications/__card-subtitle/publications__card-subtitle.css);
+@import url(../block/publications/__card-text/publications__card-text.css);
+@import url(../block/publications/__card-title/publications__card-title.css);
+@import url(../block/publications/__container-points/publications__container-points.css);
+@import url(../block/publications/__container/publications__container.css);
+@import url(../block/publications/__point/publications__point.css);
+@import url(../block/publications/__title/publications__title.css);
+@import url(../block/publications/__cards/publications__cards.css);
+@import url(../block/publications/__card/publications__card.css);
+@import url(../block/publications/publications.css);
 
 /* Блок ourteam */
 @import url(../block/ourteam/__button-arrow-left/ourteam__button-arrow-left.css);

@@ -1,0 +1,8 @@
+.publications__card-image {
+  width: 310px;
+  height: 223px;
+  margin: 20px 19px;
+  padding: 0;
+  border-radius: 10px;
+  display: flex;  
+}

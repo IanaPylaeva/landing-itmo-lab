@@ -1,0 +1,9 @@
+.publications__card-title {
+  max-width: 305px;
+  min-width: 305px;
+  margin: 0 23px 4px 20px;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 1.67;
+  color: #000D26;
+}

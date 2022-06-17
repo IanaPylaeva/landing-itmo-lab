@@ -1,0 +1,11 @@
+.education__button-container {
+  width: 540px;
+  height: 60px;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  margin: 35px auto 80px;
+  background-color: #009FAC;
+  border: 1px solid #E0F0FF;
+  border-radius: 10px;
+}

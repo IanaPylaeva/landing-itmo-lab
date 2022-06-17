@@ -1,0 +1,11 @@
+.publications__card-links {
+  max-width: 184px;
+  background-color: #FFFFFF;
+  border-radius: 8px;
+  display: flex;
+  padding: 17px 17px;
+  position: absolute;
+  top: -63px;
+  left: 284px;
+  list-style: none;
+}

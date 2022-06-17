@@ -1,0 +1,6 @@
+.publications__container {
+  max-width: 1262px;
+  margin: 0 auto;
+  padding: 0;
+  display: flex;
+}
