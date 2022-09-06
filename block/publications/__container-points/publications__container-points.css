@@ -1,3 +1,7 @@
 .publications__container-points {
+  max-width: 88px;
+  padding: 0;
+  display: flex;
+  margin: 21px auto 101px;
   
 }
